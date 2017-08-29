@@ -1,24 +1,16 @@
-# README
+# GET /api/posts
+# GET /api/post/:id
+# POST /api/post
+# PUT /api/post/:id
+# DELETE /api/post/:id
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#Post Model
 
-Things you may want to cover:
+#title
+#submitted_at
+#link
+#img_url
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#comments
+#upvote
+#downvote
