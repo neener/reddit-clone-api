@@ -11,6 +11,7 @@
 #link
 #img_url
 
+#later add:
 #comments
 #upvote
 #downvote
