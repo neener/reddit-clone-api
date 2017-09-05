@@ -1,4 +1,5 @@
-class API::CommentsController < ApplicationController
+class Api::CommentsController < ApplicationController
+	
 	before_action :set_post
 	before_action :set_post_comment, only: [:show, :update, :destroy]
 
